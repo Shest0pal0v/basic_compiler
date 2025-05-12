@@ -124,7 +124,7 @@ python -m basic_compiler.main test.bas
 |-----------------------------------|--------------------------------|
 | `LET X = 1 + 2 * 3`               | `LET X = 7`                    |
 | `GOTO END\nPRINT "Skip me"`       | `GOTO END`                     |
-| `LABEL UNUSED:` (не используется) | — (удалена)                    |
+
 
 ---
 
